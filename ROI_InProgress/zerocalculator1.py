@@ -24,4 +24,4 @@ for P in range(0,810):			#param (0, total no. images)
 		print k		
 	#P+=1	
 	
-print "le subba bc :",i	
+print ":",i	
